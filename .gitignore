@@ -1,0 +1,13 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
